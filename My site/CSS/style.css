@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: white;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    color: #66bfbf;
+    margin-top: 50px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #11999E;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    font-weight: bold;
+
+}
+
+.topContainer {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.comp {
+    border-radius: 100%;
+    width: 25%;
+    float: left;
+}
+
+.web {
+    border-radius: 100%;
+    width: 25%;
+    float: right;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+
+.footer-link {
+    color: #11999E;
+    margin-top: 30px ;
+  
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 19px;
+    background: #66BFBF;
+    padding: 6px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #66BFBF;
+    text-decoration: none;
+  }
+
+.skill-row {
+    margin: 100px auto 100px;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill {
+    margin-left: 30%;
+    font-weight: bold;
+
+}
+
+.skill2 {
+    margin-right: 30%;
+    font-weight: bold;
+}
+.profile-description{
+    color: #40514E;
+    font-weight: bold;
+}
+.profile-image{
+    margin-top: 30px;
+}
+hr{
+    border-style: dotted;
+    width: 30px;
+    border-width: 5px;
+    color: #EAF6F6;
+
+}
+.contact-me{
+    font-weight: bold;
+    line-height: 2;
+    margin-bottom:100px ;
+}
+.bottom-container{
+  padding: 50px 0 20px;
+    background-color: #66bfbf;
+    
+}
+.copy{
+    color: #EAF6F6;
+}
